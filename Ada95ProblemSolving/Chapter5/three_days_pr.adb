@@ -20,7 +20,7 @@ procedure three_days_pr is
    Yesterday : Days;
    Tomorrow : Days;
 
-begin -- startup
+begin -- three days (pr)
 
    -- Takes user input
    Ada.Text_IO.Put(Item => "Type the day of the week, then press ENTER: ");
